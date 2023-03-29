@@ -17,5 +17,11 @@ public class variables {
 
         employeeName = "Irene" + employeeName;
         System.out.println(employeeName);
+
+        int numero8 = 55;
+        int numero20 = 44;
+        int totalnumero = numero8 + numero20;
+        System.out.println(totalnumero);
+
     }
 }
